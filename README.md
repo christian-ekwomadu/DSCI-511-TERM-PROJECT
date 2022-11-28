@@ -1,5 +1,5 @@
 # DSCI-511-TERM-PROJECT
-Program (python) version 3.3 11/27/2022
+Program (python) version 3 and above 11/27/2022
 
 # PROJECT TITLE: 
 
